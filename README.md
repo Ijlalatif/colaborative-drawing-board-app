@@ -87,7 +87,7 @@ Uses **Redux**  to efficiently manage application-wide state and real-time data 
 If you have any questions, suggestions, or would like to connect — feel free to reach out!
 
 - 📧 Email: [mijlalatif10@gmail.com](mailto:mijlalatif10@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ijlalatif]([https://www.linkedin.com/in/ijlalatif](https://www.linkedin.com/in/ijlal-atif-8782351b2/))
+💼 LinkedIn: [linkedin.com/in/ijlal-atif-8782351b2](https://www.linkedin.com/in/ijlal-atif-8782351b2/)
 
 
 
